@@ -1,0 +1,76 @@
+1)
+
+• Linguagens não-estruturadas
+
+-Não há um mecanismo para agrupar instruções
+-Conjunto muito extenso de instruções
+-Muito difícil acompanhar a execução
+-Caracterizadas pelo uso da instrução GOTO
+
+Exemplo: BASIC, FORTRAN
+
+• Linguagens estruturadas
+
+-Foi introduzido o conceito de sub-rotina
+-As instruções podem ser agrupadas 
+-Uma sub-rotinas pode chamar outra
+-Muito mais fácil acompanhar a execução
+-Possibilita o reuso de código
+
+Exemplo: Pascal, C
+
+• Linguagens orientadas a objeto
+
+-A mais usada nos dias de hoje 
+-Atrela as sub-rotinas a um conjunto de dados 
+-Expande ainda mais as opções de reuso de código
+-Trata os problemas de forma mais intuitiva
+-Facilita o tratamento de erros
+
+Exemplo: C++, C#, Java, Python
+
+2) As linguagens de programação mais populares atualmente são:
+
+Javaspript
+
+Javascript, ou simplesmente JS, é uma linguagem de programação de uso geral, aplicada principalmente para desenvolvimento web e desenvolvimento de software.
+
+C#
+
+C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET,usada para propósitos gerais.
+
+Python
+
+Python é uma linguagem de programação de alto nível e para propósitos diversos. Ela pode ser utilizada para múltiplas tarefas, desde a análise e visualização de dados até o desenvolvimento, prototipação e automação web.
+
+C++
+
+C++ é uma linguagem de programação multi-paradigma de uso geral, aplicada principalmente para jogos,mercado financeiro,SO(sistemas operacionais),microcontroladores, etc.
+
+Java
+
+Java é uma linguagem de programação de alto nível e para propósitos diversos, permitindo que os desenvolvedores criem todo e qualquer tipo de aplicação com facilidade.
+
+3)Em uma linguagem compilada, a máquina de destino traduz o programa diretamente. Em uma linguagem interpretada, o código fonte não é traduzido diretamente pela máquina de destino
+
+O processo de compilação traz muitas vantagens. Primeiramente, o cliente final não tem acesso ao código-fonte de nosso projeto, visto que recebe apenas o código binário para ser executado. Outra vantagem é a performance. Como compilamos o código inteiro, não precisamos ficar repetindo esse processo desnecessariamente. Além disso, já teremos à mão tudo aquilo que é necessário para a execução, o que aumenta muito a velocidade deste processo.
+
+Alguns exemplos de linguagens de programação que são compiladas são o C++ e Objective-C.
+
+Já as vantagens da interpretação é a facilidade e rapidez para iniciar a execução do código já escrito.Outra vantagem é que toda a depuração nessas linguagens ocorre em tempo de execução.
+
+Alguns exemplos de linguagens de programação que são interpretadas são o JavaScript, Perl, Python, BASIC, etc.
+
+4) VSCode,ATOM, Vim, Sublime Text, NotePad++
+
+5)Editores de código são editores de texto com poderosos recursos integrados e funcionalidades especializadas para simplificar e acelerar o processo de edição de código.
+
+Exemplos:NotePad++,Vim, VSCode,Atom, Sublime text,etc
+
+Já um IDE, por outro lado, é um conjunto de ferramentas de desenvolvimento de software projetadas para tornar a codificação mais fácil.
+
+Exemplos:Eclipse,Pycharm, Visual Studio, etc.
+
+6) CodeBlocks, DevC++, Visual Studio, Clion, Eclipse, Xcode , etc
+
+7) Cfront, Tiny C CompilerCMake, Clang, MinGW, GCC, GNU g++, Intel C++, Microsoft Visual C++, etc.
