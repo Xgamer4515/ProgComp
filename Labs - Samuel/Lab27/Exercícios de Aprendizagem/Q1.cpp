@@ -23,7 +23,7 @@ int main()
     {
         if (escolha >= 1 && escolha < 4)
             opcoes[escolha]();
-        else if (escolha != 4)
+        else if (escolha < 1 && escolha > 4)
             cout << "Opção inválida. Tente novamente.\n";
 
         menu();
