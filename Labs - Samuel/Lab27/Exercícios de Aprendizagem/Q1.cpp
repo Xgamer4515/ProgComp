@@ -51,8 +51,7 @@ void Inserir()
         int valor;
         cin >> valor;
         
-        vetor[tam] = valor;
-        tam++;
+        vetor[tam++] = valor;
 
         cout << "Valor inserido com sucesso.\n";
     } 
